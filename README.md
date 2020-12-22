@@ -27,7 +27,5 @@ We should change it to this:
 a[i,j]++;
 ```
 
-
-
-
+As result time of execution decreases by half:
 ![after](./img/after.png)
